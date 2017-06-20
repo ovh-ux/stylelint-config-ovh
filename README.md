@@ -1,3 +1,5 @@
+![OVH component](githubBanner.png)
+
 # stylelint-config-ovh
 
 Official OVH rules for StyleLint.
