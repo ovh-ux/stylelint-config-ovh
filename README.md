@@ -4,8 +4,11 @@
 
 Official OVH rules for StyleLint.
 
-:construction: **This configuration is under active discussions, so some of our projects  do not yet use this configuration**
+[![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]() [![Chat on gitter](https://img.shields.io/gitter/room/ovh/ux.svg)](https://gitter.im/ovh/ux)
 
+[![NPM](https://nodei.co/npm/stylelint-config-ovh.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/stylelint-config-ovh/)
+
+:construction: **This configuration is under active discussions, so some of our projects  do not yet use this configuration**
 
 ## Getting Started
 
