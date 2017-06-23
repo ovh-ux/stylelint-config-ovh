@@ -19,7 +19,7 @@ Just install Stylelint with the OVH config:
 
 ### configuration
 
-Creates an `.stylelintrc.js` in your project, and specify the config that you want to use:
+Creates an `.stylelintrc.json` in your project, and specify the config that you want to use:
 
 ```json
 {
